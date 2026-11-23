@@ -2,8 +2,13 @@
 
 本仓库整理面向国内用户的 **ProdClub 代充** 与 **ChatGPT Plus / Pro 订阅** 实用速查说明，包括自有账号代充流程、最新参考价、支付宝付款方式、Codex 手机接码以及下单前核对清单。
 
-- 完整指南与在线查询：[AI PASS（prodclub.party）](https://prodclub.party/)
+- 在线指南主站：[AI PASS（prodclub.party）](https://prodclub.party/)
 - 专属邀请入口（邀请码 `E6Q49F`）：[前往 ProdClub 查看实时报价](https://prodclub.ai/r/E6Q49F)
+
+## 仓库文档目录
+
+- [常见问答与核对清单（docs/faq.md）](docs/faq.md) — 封号风险边界、国内信用卡被拒排查、Session 安全与退款说明
+- [ChatGPT Plus / Pro 档位与 API 计费速查（docs/plans.md）](docs/plans.md) — 各档位对比、代充/成品号/合租区别与 API 边界
 
 ## 最新参考价格（核对于 2026-11-23）
 
@@ -23,7 +28,7 @@
 2. **选择档位并付款**：支持支付宝人民币付款（部分档位支持 USDT），填写可接收订单邮件的邮箱即可，无需额外注册账号。
 3. **在订单页提交 Session 并查看进度**：自有账号代充只需在官方订单页按指引提交一次 Session，开通进度实时可见；未开通前可在订单页申请原路退款。
 
-## 常见问题与深度指南
+## 完整深度指南（AI PASS）
 
 - **平台介绍与核对**：[ProdClub 是什么？代充怎么用与靠谱吗](https://prodclub.party/guides/what-is-prodclub/)
 - **价格与方案对比**：[ProdClub 代充多少钱？和成品号、合租差在哪](https://prodclub.party/guides/topup-price/)
